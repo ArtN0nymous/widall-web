@@ -15,8 +15,21 @@
       {
         "source": "**",
         "destination": "/index.html"
+      },
+      {
+        "source":"/Acerca-de",
+        "destination": "/Acerca-de.html"
+      },
+      {
+        "source":"/Contacto",
+        "destination": "/Contacto.html"
+      },
+      {
+        "source":"/easyqrscanner-privacy-policy",
+        "destination": "/easyqrscanner-privacy-policy.html"
       }
-    ]
+    ],
+    "cleanUrls": true
   },
   "storage": {
     "rules": "storage.rules"
